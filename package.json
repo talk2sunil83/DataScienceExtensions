@@ -3,7 +3,7 @@
     "displayName": "Data Science Extensions",
     "description": "\"Set of extensions use in Machine Learning, Azure ML and Python\"",
     "version": "0.0.1",
-    "publisher": "Sunil Yadav",
+    "publisher": "SunilYadav",
     "author": {"name": "Sunil Yadav"},
     "repository": {
         "type": "git",

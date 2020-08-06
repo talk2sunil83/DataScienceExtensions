@@ -8,7 +8,9 @@ I am not developer of any below extension. There licensing will be applied as is
 </span>
 
 <br/><br/>
-Note: User friendly names will be posted soon
+
+Note: User friendly names will be posted soon  
+
 List of Extensions:
 
 * christian-kohler.path-intellisense

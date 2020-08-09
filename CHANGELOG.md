@@ -1,6 +1,13 @@
 # Change Log
 
+For List of all included extensions please see [Read Me File](https://github.com/talk2sunil83/DataScienceExtensions/blob/master/README.md).
+
 All notable changes to the "Data Science Extensions" extension pack will be documented in this file.
+
+## [0.0.0.2]
+
+- Information Added
+- Removed redundant packages
 
 ## [0.0.0.1]
 

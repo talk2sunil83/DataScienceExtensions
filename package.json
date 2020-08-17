@@ -2,7 +2,7 @@
     "name": "azdsextns",
     "displayName": "Data Science Extensions",
     "description": "Set of extensions use in Machine Learning, Azure ML and Python",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "SunilYadav",
     "author": {
         "name": "Sunil Yadav"
@@ -26,6 +26,7 @@
         "eamodio.gitlens",
         "emilast.LogFileHighlighter",
         "felipecaputo.git-project-manager",
+        "gruntfuggly.todo-tree",
         "humao.rest-client",
         "jgclark.vscode-todo-highlight",
         "KevinRose.vsc-python-indent",

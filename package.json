@@ -2,7 +2,7 @@
     "name": "azdsextns",
     "displayName": "Data Science Extensions",
     "description": "Set of extensions use in Machine Learning, Azure ML and Python",
-    "version": "0.0.3",
+    "version": "0.0.5",
     "publisher": "SunilYadav",
     "author": {
         "name": "Sunil Yadav"
@@ -16,7 +16,9 @@
         "vscode": "^1.46.0"
     },
     "categories": [
-        "Extension Packs"
+        "Extension Packs",
+        "Data Science",
+        "Machine Learning"
     ],
     "extensionPack": [
         "christian-kohler.path-intellisense",
@@ -26,6 +28,7 @@
         "eamodio.gitlens",
         "emilast.LogFileHighlighter",
         "felipecaputo.git-project-manager",
+        "foxundermoon.shell-format",
         "gruntfuggly.todo-tree",
         "humao.rest-client",
         "jgclark.vscode-todo-highlight",
@@ -40,6 +43,7 @@
         "ms-vscode.azure-account",
         "ms-vscode.vscode-node-azure-pack",
         "ms-vsts.team",
+        "njpwerner.autodocstring",
         "oderwat.indent-rainbow",
         "pflannery.vscode-versionlens",
         "shardulm94.trailing-spaces",
@@ -50,6 +54,7 @@
         "VisualStudioOnlineApplicationInsights.application-insights",
         "vscode-icons-team.vscode-icons",
         "wayou.vscode-todo-highlight",
-        "wwm.better-align"
+        "wwm.better-align",
+        "yzhang.markdown-all-in-one"
     ]
 }

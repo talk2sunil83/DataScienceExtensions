@@ -4,8 +4,18 @@ For List of all included extensions please see [Read Me File](https://github.com
 
 All notable changes to the "Data Science Extensions" extension pack will be documented in this file.
 
+## [0.0.0.5]
+
+- Added 'Python Docstring Generator'
+- Added Markdown extensions
+
+## [0.0.0.4]
+
+- Added 'TODO Tree'
+
 ## [0.0.0.3]
 
+- Linked Snippets Extension
 - Added 'TODO Tree'
 
 ## [0.0.0.2]

@@ -1,8 +1,8 @@
 {
     "name": "azdsextns",
     "displayName": "Data Science Extensions",
-    "description": "Set of extensions use in Machine Learning, Azure ML and Python",
-    "version": "0.0.5",
+    "description": "Set of extensions use in Machine Learning, Azure ML and Python,and supporting tools",
+    "version": "0.0.6",
     "publisher": "SunilYadav",
     "author": {
         "name": "Sunil Yadav"
@@ -18,7 +18,12 @@
     "categories": [
         "Extension Packs",
         "Data Science",
-        "Machine Learning"
+        "Machine Learning",
+        "Formatters",
+        "Linters",
+        "Notebooks",
+        "Programming Languages",
+        "Azure"
     ],
     "extensionPack": [
         "christian-kohler.path-intellisense",
@@ -27,9 +32,11 @@
         "donjayamanne.githistory",
         "eamodio.gitlens",
         "emilast.LogFileHighlighter",
+        "fabiospampinato.vscode-todo-plus",
         "felipecaputo.git-project-manager",
         "foxundermoon.shell-format",
         "gruntfuggly.todo-tree",
+        "hediet.debug-visualizer",
         "humao.rest-client",
         "jgclark.vscode-todo-highlight",
         "KevinRose.vsc-python-indent",

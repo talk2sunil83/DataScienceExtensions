@@ -27,8 +27,10 @@ I am not developer of any below extension. There licensing will be applied as is
 | [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)                                                   | donjayamanne.githistory                                    |
 | [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)                                            | eamodio.gitlens                                            |
 | [Log File Highlighter](https://marketplace.visualstudio.com/items?itemName=emilast.LogFileHighlighter)                                       | emilast.LogFileHighlighter                                 |
+| [Todo+](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus)                                                | fabiospampinato.vscode-todo-plus                           |
 | [Git Project Manager](https://marketplace.visualstudio.com/items?itemName=felipecaputo.git-project-manager)                                  | felipecaputo.git-project-manager                           |
 | [TODO Tree](https://marketplace.visualstudio.com/items?itemName=gruntfuggly.todo-tree)                                                       | gruntfuggly.todo-tree                                      |
+| [Debug Visualizer](https://marketplace.visualstudio.com/items?itemName=hediet.debug-visualizer)                                              | hediet.debug-visualizer                                    |
 | [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)                                                         | humao.rest-client                                          |
 | [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=jgclark.vscode-todo-highlight)                                          | jgclark.vscode-todo-highlight                              |
 | [Python Indent](https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent)                                             | KevinRose.vsc-python-indent                                |

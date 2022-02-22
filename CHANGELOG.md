@@ -4,6 +4,10 @@ For List of all included extensions please see [Read Me File](https://github.com
 
 All notable changes to the "Data Science Extensions" extension pack will be documented in this file.
 
+## [0.0.0.7]
+
+- Pruned list
+
 ## [0.0.0.6]
 
 - Added 'ToDo+', best todo manager in vs code

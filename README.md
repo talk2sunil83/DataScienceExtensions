@@ -12,10 +12,10 @@
 
 </h1>
 
-`<span style="color:red; font-weight:bold;">`
+<span style="color:red; font-weight:bold;">
 I am not developer of any below extension. There licensing will be applied as is. I do not hold any responsibility on their extension.
-
-`<br/><br/>`
+</span>
+<br/><br/>
 
 ## List of Extensions
 

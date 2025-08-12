@@ -69,6 +69,7 @@
         "yardensachs.copy-python-path",
         "yzhang.dictionary-completion",
         "zhaouv.vscode-python-highlight-cell-splitter",
-        "zijie.python-inline-repl"
+        "zijie.python-inline-repl",
+        "MeerkatIO.meerkatio"
     ]
 }
